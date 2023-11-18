@@ -81,7 +81,7 @@ This project involves the analysis of 120 years of Olympic Games data, exploring
 ### 19. Break down all Olympic games where India won a medal for Hockey and how many medals in each Olympic game.
 
    - **Solution**: List Olympic games where India won hockey medals and the count.
-   - 
+     
 ### 20. count number of games where India participated and won a medal?
 
 ## How to Run
