@@ -91,7 +91,7 @@ To run these queries, you need access to the Olympic Games database. Execute the
 ## Acknowledgments
 
 - Olympic Games data sourced from [(https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)].
-- Credit Goes to [(https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)]
+- Credit Goes to [(https://techtfq.com/blog/practice-writing-sql-queries-using-real-dataset)]
 ## Contact
 
 For any inquiries or collaboration opportunities, feel free to connect with me on LinkedIn: [(www.linkedin.com/in/)]
